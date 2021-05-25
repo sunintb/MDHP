@@ -2,3 +2,4 @@
 Decentralized "http://www.milliondollarhomepage.com/" on Web 3 hosting NFTs. 
 
 Built with Solidity and IPFS.
+_Note: Only Solidity contract has been provided_
